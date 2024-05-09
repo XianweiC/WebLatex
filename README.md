@@ -6,9 +6,7 @@ This project came out of a restless afternoon when I was writing a paper. It was
 
 ## Usage
 
-Click here to jump to 
-
-
+Click [here](https://xianweic.github.io/WebLatex/) to jump to home page.
 
 
 
